@@ -1,0 +1,17 @@
+.odd {
+    font-family: sans-serif;
+    background-color: pink;
+}
+#even {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+.odd-cooler {
+    font-size: 30px;
+}
+#another-even {
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: greenyellow;
+}
