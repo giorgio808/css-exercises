@@ -7,6 +7,32 @@ img {
   height: 100px;
 }
 
+/* */
+.main-flexbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.plants {
+  display:flex;
+  padding: 32px;
+  align-items: center;
+  gap: 52px;
+}
+
+.barberry, .chilli, .pepper, .saffron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 200px;
+}
+
+.text {
+  text-align: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
